@@ -1,0 +1,16 @@
+{
+	"name": "Amunets Server Transfer",
+	"description": "Well... A server cluster solution for conan - kinda.\n\nThis mod allows switching \"on the fly\" between servers (and taking your character with you).\n\nIt is not user friendly, and more a proof of concept right now.",
+	"changeNote": "2020-12-02 - 1.0.0\nfirst public upload",
+	"author": "LilMissHentai",
+	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2305969565",
+	"steamVisibility": 0,
+	"folderName": "AmunetServerTransfer",
+	"revisionNumber": 255795,
+	"snapshotId": 26931
+}
