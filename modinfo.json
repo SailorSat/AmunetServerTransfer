@@ -1,7 +1,7 @@
 {
 	"name": "Amunets Server Transfer - v1.0.15",
 	"description": "[b]Mod-ID[/b]: 2305969565\n\nA server cluster solution for conan.\nThis mod allows switching \"on the fly\" between servers (and taking your character with you).",
-	"changeNote": "2020-12-29 - 1.0.15\n- added a \"sub target\" field to the AST Placeable in case you have multiple AST Placeables on each server.\n- streamlined code\n- update php files.",
+	"changeNote": "2020-12-30 - 1.0.15a\n- hotfix for char-creation issue. thanks razor.",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 1,
