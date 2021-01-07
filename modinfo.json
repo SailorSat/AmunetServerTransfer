@@ -1,16 +1,16 @@
 {
-	"name": "Amunets Server Transfer - v1.0.17",
+	"name": "Amunets Server Transfer - v1.0.18",
 	"description": "[b]Mod-ID[/b]: 2305969565\n\nA server cluster solution for conan.\nThis mod allows switching \"on the fly\" between servers (and taking your character with you).",
-	"changeNote": "2021-01-04 - 1.0.17\n- force saving of a character after import.\n- retry once if item failed to spawn in.\n- log an error to the server log if item spawn failed twice.\n- cluster.php now keeps a backup of the last import to make admin life easier.",
+	"changeNote": "2021-01-06 - 1.0.18\n- patch 2.2 update.",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 17,
+	"versionBuild": 18,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2305969565",
 	"steamVisibility": 0,
 	"folderName": "AmunetServerTransfer",
-	"revisionNumber": 255795,
-	"snapshotId": 26931
+	"revisionNumber": 265775,
+	"snapshotId": 27373
 }
