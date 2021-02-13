@@ -1,16 +1,16 @@
 {
-	"name": "Amunets Server Transfer - v1.0.18",
+	"name": "Amunets Server Transfer - v1.0.19",
 	"description": "[b]Mod-ID[/b]: 2305969565\n\nA server cluster solution for conan.\nThis mod allows switching \"on the fly\" between servers (and taking your character with you).",
-	"changeNote": "2021-01-06 - 1.0.18\n- patch 2.2 update.",
+	"changeNote": "2021-02-14 - 1.0.19\n- alternate login handling. this fixes some cases of people getting stuck in loading screen. might help with dlc items too.",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 18,
+	"versionBuild": 19,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2305969565",
 	"steamVisibility": 0,
 	"folderName": "AmunetServerTransfer",
-	"revisionNumber": 265775,
-	"snapshotId": 27373
+	"revisionNumber": 269506,
+	"snapshotId": 27677
 }
