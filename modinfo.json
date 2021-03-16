@@ -1,16 +1,16 @@
 {
-	"name": "Amunets Server Transfer - v1.0.20",
-	"description": "[b]Mod-ID[/b]: 2305969565\n\nA server cluster solution for conan.\nThis mod allows switching \"on the fly\" between servers (and taking your character with you).",
-	"changeNote": "2021-03-09 - 1.0.20\n- added api support for other mods to include their stuff.",
+	"name": "Amunets Server Transfer - v1.0.21",
+	"description": "[b]Mod-ID[/b]: 2305969565\n\nA server cluster solution for conan.\nThis mod allows switching \"on the fly\" between servers (and taking your character with you).\n\nDiscord @ https://discord.gg/a8hGAKW\nMod-ID: 2305969565",
+	"changeNote": "2021-03-16 - v1.0.21\n- funcom patch 2.3\n- added \"AST Placeable Zone A\" and \"AST Placeable Zone B\", which are area triggers and considered in testing stage for now. use at your own risk.\n\nWer das liest ist doof :)",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 20,
+	"versionBuild": 21,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2305969565",
 	"steamVisibility": 0,
 	"folderName": "AmunetServerTransfer",
-	"revisionNumber": 269506,
-	"snapshotId": 27677
+	"revisionNumber": 279274,
+	"snapshotId": 28446
 }
