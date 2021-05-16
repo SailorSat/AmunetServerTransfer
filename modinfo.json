@@ -1,16 +1,16 @@
 {
-	"name": "Amunets Server Transfer - v1.0.25",
+	"name": "Amunets Server Transfer - v1.0.27",
 	"description": "[b]Mod-ID[/b]: 2305969565\n\nA server cluster solution for conan.\nThis mod allows switching \"on the fly\" between servers (in multiplayer) and maps (in singleplayer) while taking your character with you.\n\nDiscord @ https://discord.gg/a8hGAKW\nMod-ID: 2305969565",
-	"changeNote": "2021-04-22 - v1.0.25\n- patch 2.4 update.\n- added a (temporary) fix for feats broken in 2.3.\n- added (experimental) support for single-player - see mod discussions for more detail.",
+	"changeNote": "2021-05-?? - v1.0.27\n",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 25,
+	"versionBuild": 27,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2305969565",
 	"steamVisibility": 0,
 	"folderName": "AmunetServerTransfer",
-	"revisionNumber": 287106,
-	"snapshotId": 28960
+	"revisionNumber": 291664,
+	"snapshotId": 29282
 }
