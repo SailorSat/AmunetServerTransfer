@@ -1,7 +1,7 @@
 {
 	"name": "Amunets Server Transfer - v1.0.30",
 	"description": "[b]Mod-ID[/b]: 2305969565\n\nA server cluster solution for conan.\nThis mod allows switching \"on the fly\" between servers (in multiplayer) and maps (in singleplayer) while taking your character with you.\n\nDiscord @ https://discord.gg/a8hGAKW\nPatreon @ https://www.patreon.com/sailorsat",
-	"changeNote": "2021-08-20 - v1.0.30\n- sigils now transfer too.",
+	"changeNote": "2021-08-20 - v1.0.30\n- sigils now transfer too.\n- corruption transfers too. (thanks Hosav!)\n- fixed a certain incompatibility with EEWA :)",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 1,
@@ -11,6 +11,6 @@
 	"steamPublishedFileId": "2305969565",
 	"steamVisibility": 0,
 	"folderName": "AmunetServerTransfer",
-	"revisionNumber": 300976,
-	"snapshotId": 29848
+	"revisionNumber": 314055,
+	"snapshotId": 30574
 }
