@@ -1,18 +1,18 @@
 {
-	"name": "Amunets Server Transfer - v1.1.6",
+	"name": "Amunets Server Transfer - v1.1.7",
 	"description": "[b]Mod-ID[/b]: 2305969565\n\nA server cluster solution for conan.\nThis mod allows switching \"on the fly\" between servers (in multiplayer) and maps (in singleplayer) while taking your character with you.\n\nSupports many popular mods, including (but not limited to):\n- Thrall Wars Dungeon Mod\n- Endgame Extended Weapon Arsenal (EEWA)\n- Kerozards Paragon Leveling - Reloaded\n- Restricted Exiles\n\nDiscord @ https://discord.gg/a8hGAKW\nPatreon @ https://www.patreon.com/sailorsat\n\nFor MS-Store users - read [url=https://forums.funcom.com/t/for-ms-store-how-to-get-mods-off-the-steam-workshop-without-a-steam-account/174325]this[/url].",
-	"changeNote": "2022-11-13 - Amunets Server Transfer v1.1.6\n- bullet-proofed login detection.",
+	"changeNote": "2022-11-xx - Amunets Server Transfer v1.1.7\n- battlepass season 2 update?!",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 1,
 	"versionMinor": 1,
-	"versionBuild": 6,
+	"versionBuild": 7,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2305969565",
 	"steamTestLivePublishedFileId": "2856306147",
 	"steamVisibility": 0,
 	"folderName": "AmunetServerTransfer",
-	"revisionNumber": 408177,
-	"snapshotId": 34671,
+	"revisionNumber": 437229,
+	"snapshotId": 35533,
 	"fileSize": -2
 }
